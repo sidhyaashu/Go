@@ -6,33 +6,6 @@ go mod init <project_name>
 ```bash
 go run ./main.go
 ```
-Here’s a `README.md` file that you can use for your Go programming language tutorial project on GitHub, tailored for working on Windows 11 using VS Code:
-
-```markdown
-# Go Programming Language Tutorial
-
-This repository contains a step-by-step tutorial to help you get started with Go programming language. The tutorial covers everything from installation to writing basic programs, data types, control structures, functions, and much more.
-
-## Prerequisites
-
-To follow this tutorial, you'll need the following:
-
-- **Windows 11** (but should work on other operating systems too)
-- **Visual Studio Code (VS Code)** installed
-- **Go Programming Language** installed on your machine
-
-### Installation Steps
-
-#### 1. Install Go
-
-1. Go to the official [Go download page](https://go.dev/dl/).
-2. Download the Go installer for Windows.
-3. Run the installer and follow the prompts to install Go.
-
-#### 2. Verify Go Installation
-
-After installation, open **Command Prompt** or **PowerShell**, and check the Go version to verify that the installation was successful.
-```
 ```bash
 go version
 ```
