@@ -32,14 +32,14 @@ To follow this tutorial, you'll need the following:
 #### 2. Verify Go Installation
 
 After installation, open **Command Prompt** or **PowerShell**, and check the Go version to verify that the installation was successful.
-
+```
 ```bash
 go version
 ```
-```
 
+```markdown
 This should display the installed version of Go, like so:
-```
+
 go version go1.19.5 windows/amd64
 ```
 
@@ -55,7 +55,7 @@ go version go1.19.5 windows/amd64
 2. Go to the **Extensions** view by clicking on the Extensions icon on the Activity Bar on the side of the window.
 3. Search for **Go** and install the official Go extension by **Go Team at Google**.
 
----
+
 
 ## Setting Up Your Go Workspace
 
@@ -78,7 +78,7 @@ go version go1.19.5 windows/amd64
 3. **Create Your First Go File**  
    Inside your project folder (`hello`), create a file named `main.go`. You can do this from within VS Code or using the command line.
 
----
+
 
 ## Writing Your First Go Program
 
