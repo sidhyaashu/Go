@@ -36,6 +36,7 @@ After installation, open **Command Prompt** or **PowerShell**, and check the Go 
 ```bash
 go version
 ```
+```
 
 This should display the installed version of Go, like so:
 ```
@@ -238,16 +239,3 @@ Feel free to fork this repository and contribute any improvements or additions t
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
----
-
-### Notes:
-- This `README.md` is intended for a beginner's Go tutorial using Visual Studio Code on Windows 11.
-- It includes steps for installation, writing a basic Go program, and understanding essential Go concepts.
-- You can further customize this file based on any specific Go topics or examples you'd like to include in your tutorial.
-
-Let me know if you need further modifications!
